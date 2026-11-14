@@ -1,0 +1,6 @@
+{
+  "appId": "com.viralclip.app",
+  "appName": "ViralClip AI",
+  "webDir": "www",
+  "server": { "androidScheme": "http", "cleartext": true }
+}
